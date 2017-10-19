@@ -1,4 +1,8 @@
-str = 'Runoob'
+str = 'b'
+
+print(str.find('o'))
+
+print('编码' + (str.encode()))
 
 print(str)
 print(str[0:-1])
