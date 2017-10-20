@@ -44,9 +44,10 @@ print(a - b)  # a和b的差集 #
 #
 # var = complex(10,-1)
 # print(var)
+#
+# list = {11.1, 1, "d"}
+# it = iter(list)
+# for i in it:
+#     "dd"
+#     print(i)
 
-list = {11.1, 1, "d"}
-it = iter(list)
-for i in it:
-    "dd"
-    print(i)
